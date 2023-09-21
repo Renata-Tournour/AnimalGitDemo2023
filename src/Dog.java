@@ -15,5 +15,6 @@ public class Dog implements Animal {
         public String speak() {
             return Dog.WOOF;
         }
+
     }
 
